@@ -7,6 +7,15 @@
 # BlueJ files
 *.ctxt
 
+# idea 파일 무시
+*.idea
+
+# out 폴더 무시
+*.out
+
+# git-test.iml 파일 무시
+*.git-test.iml
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
