@@ -14,7 +14,7 @@
 /out
 
 # git-test.iml 파일 무시
-*.iml
+git-test.iml
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
