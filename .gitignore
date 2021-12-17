@@ -8,7 +8,7 @@
 *.ctxt
 
 # idea 폴더 무시
-/idea
+/.idea
 
 # out 폴더 무시
 /out
